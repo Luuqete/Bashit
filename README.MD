@@ -12,7 +12,7 @@
 
 ## Instalación
 
-Descargá el jar [acá]() e importalo a tu proyecto Java
+Descargá el jar [acá](https://github.com/Luuqete/Bashit/releases/download/v1.0.0/bashit.jar) e importalo a tu proyecto Java
 
 
 ## Uso
